@@ -1,0 +1,2509 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "51fcee5c-67e9-11eb-a855-38d5479d0148",
+    "deck_config_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "51fd0716-67e9-11eb-a855-38d5479d0148",
+            "currentValue": 120,
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxLife": 120,
+            "maxTaken": 60,
+            "name": "[Intense] English C1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50,
+                "separate": true
+            },
+            "recover": 5,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 50
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-0101d4e44fd7a9ea9d6cb818f94ccb6ad0e4c7e1.jpg",
+        "paste-01048a8e6e973e78746c4b4c297a8625b21593dc.jpg",
+        "paste-03c1eef97c779689571e9ac668cb38d779a2a329.jpg",
+        "paste-03e0ff3fdafc37a1d4783c6d46982dbcdec2c911.jpg",
+        "paste-0715109102a9d93b3b0d4cbefab6e132a122e1d1.jpg",
+        "paste-12c5bc8ff836a5d03df16b113700db559320ad46.jpg",
+        "paste-161b177b9db727fac064014f2891881044e451e6.jpg",
+        "paste-19788a3edab28e7bc070093f2581cea20d003578.jpg",
+        "paste-19fce6c821fe542f13cc9c0cd8a92506f1867a4e.jpg",
+        "paste-1fb386e073f73bf637dd976a10f5eeb2523f55a2.jpg",
+        "paste-200c25a06cec8d5712c5cf0d011cab6e4b2579cb.jpg",
+        "paste-31b1fef56f3087edd72453a59a704e336c0afe1c.jpg",
+        "paste-34015521468bcc69e53234b256b026ff819a2b17.jpg",
+        "paste-3433446c5343e7a24f80f0900d514c410acc1f69.jpg",
+        "paste-38d5e254b1076fb1217922d272103205d57c2219.jpg",
+        "paste-3a42b4366a84c5f477c61bbbb0ed0ef738901222.jpg",
+        "paste-3f93921bd6e083056e386892a9bcf8961f861033.jpg",
+        "paste-48de7bca81c994d2b2831abbbd8a91605ab799fb.jpg",
+        "paste-4ec7a78714b272bdd30da2a4dcb0e577ccbc7381.jpg",
+        "paste-5521cd75b4e5113fcb4877f53822acec695d7441.jpg",
+        "paste-574b999190534c92826bb49dd13a71ef7b601b5f.jpg",
+        "paste-5f03f85378d67c2babe6bed983e07201bb9bd72b.jpg",
+        "paste-61cf5313a322559f592280ec43566b87d07d1e9f.jpg",
+        "paste-65b003755014aad85608c6373973ac0026d31699.jpg",
+        "paste-67ed6e77a6b377e62d9413fc483eed81dda26b8b.jpg",
+        "paste-687b5550ec26cd9c872967b7088a678bcda34dc0.jpg",
+        "paste-6b067bff62c2072f1797d6ca8ff26d28afaad31b.jpg",
+        "paste-7079e0cdd11077bd724cede3b6543a399d653a8d.jpg",
+        "paste-74d99e3e9cd0a59dcce07e1e602dfa400d3e0d27.jpg",
+        "paste-7513d2093889678fa75be2cbb8830f03943034cd.jpg",
+        "paste-75dd71a4232e2504d0d3fb81acc7e4d04aa51452.jpg",
+        "paste-76053c3d0b8c86de84dd24f2ad18cdebebf2b10a.jpg",
+        "paste-7b48865ce55cbb392b8f0722bc8ab2fd6a4b9f11.jpg",
+        "paste-7bfd073b2c78b1a70cdf54efd361e9f75ec551d2.jpg",
+        "paste-867dfbaac7dfc967e5f21568dcd767ae11d3148a.jpg",
+        "paste-8c567b7a29e8a55ab6714562775e7307f293019b.jpg",
+        "paste-8e127e0a0f39b214a41a8d1005faf06baff820a8.jpg",
+        "paste-971af4361b0331a879d4ef5086c07eb5a48f669f.jpg",
+        "paste-9dd4f3d742b7b21763e1fedabe93f60270778eac.jpg",
+        "paste-a0cba1090fba04e4d27f7c370344ffb91bd88645.jpg",
+        "paste-a20007e3678d0d91c4192555abe23a543c02696a.jpg",
+        "paste-a7925f01940684ee2b9b0f563a365d4fd4b2cd85.jpg",
+        "paste-ae3b3f30798458ef125e5d4bc3041405ac711d3e.jpg",
+        "paste-b77c3fbc80eb2e6da10e1c3eedc8f13289411113.jpg",
+        "paste-ba635aa04fe166e9923d17b148367eeb61b50da0.jpg",
+        "paste-bbd6b67d2770fa42e3ef10831871349c26f28fc0.jpg",
+        "paste-bd85d620c1710a9a5186301b92bf6a80f74b6e66.jpg",
+        "paste-c0d20fdbd796a8b585641fd04681ece5512191bd.jpg",
+        "paste-c2240e48cf1fa308ae8407aff8cef781314e7555.jpg",
+        "paste-c9031128a5f3ef37c6ca7efd3e9fa7d23ddaa1ae.jpg",
+        "paste-cbe424f9341495810a9b8b2807e76131e03a06b2.jpg",
+        "paste-d1cf49a30ec95c2dafc1b24c5e234985506fa406.jpg",
+        "paste-d74dd138303c9787fec6a70c68c6cf100c6da605.jpg",
+        "paste-da426e1596c5489aa81e3bf11146003f49c0c41e.jpg",
+        "paste-db94bcad6180a0a1b3fd9851a3a045e647fe1087.jpg",
+        "paste-dcfc171a4f722c77b9d768391cb71ed21f63166d.jpg",
+        "paste-dd3794dcf97306040538858cc06a3d8719a1559a.jpg",
+        "paste-de033874f213efba7920fdf416d4e2e0e4c14627.jpg",
+        "paste-e7106ab9aab52a686c0160017d3c2d782e7ed794.jpg",
+        "paste-e82ac313bd6295c64c6102fafe48abd5d6fb76f2.jpg",
+        "paste-f096b3e49ac4ef98a177368b7eccf19fb3cf8ec3.jpg",
+        "paste-f115cb7754431f50103316674cbcf6021ad435a4.jpg",
+        "paste-f676575df5f809ac022879fc5615aa3915d80aec.jpg",
+        "paste-fda53d637992d50a3c62afb07b741caf806a52a4.jpg",
+        "paste-fea22c574e6a625f2bfd731a2c63cbc2bdbbee0f.jpg"
+    ],
+    "mid": 1552241799965,
+    "name": "Teorie::MFF - (NAIL069) Artificial Intelligence 1",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n.extra {\n\tcolor: #dddddd;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze Extra Gray",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br><br><br>\n<div class=\"extra\">\n{{Extra}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n text-align: center;\n background-color: white;\n}\n\n.solution {\n text-align: left;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Question",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Solution",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Math",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{Question}}\n\n<hr id=answer>\n\n<div style=\"text-align: center;\">\n    <div style=\"display: inline-block; text-align: left;\">\n\t\t{{Solution}}\n    </div>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Question}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "520cd16e-67e9-11eb-a855-38d5479d0148",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n\n.nightMode .cloze {\n color: lightblue;\n}\n\n.extra {\n\tcolor: #dddddd;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br><br><br>\n<div class=\"extra\">\n{{Extra}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "A computer passes the test turing test if a human interrogator, after posing some written questions, {{c1::cannot tell whether the written responses come from a person or from a computer.}}",
+                ""
+            ],
+            "guid": "m,GPxEg)^p",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The two approaches to cognitive modeling are {{c1::top-down}} and {{c1::bottom-up}}",
+                ""
+            ],
+            "guid": "KAKD5C5I8[",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The top-down approach of cognitive modeling focuses mainly on {{c1::psychology, reasoning::scientific field}} of a human",
+                ""
+            ],
+            "guid": "mmDQ#,$f^A",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The bottom-up approach of cognitive modeling focuses mainly on {{c1::neuroscience, modeling the brain::scientific field}} of a human",
+                ""
+            ],
+            "guid": "g_ph9F6+yx",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::mid of 20th centry::when}} artificial intelligence as a field {{c2::declined in popularity due to limitations at the time::what happened}}",
+                ""
+            ],
+            "guid": "DZmIOV5bP;",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::1970::when}} artificial intelligence as a field {{c2::became an industry::what happened}}",
+                ""
+            ],
+            "guid": "mnWbZc$k@K",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::1986::when}} artificial intelligence as a field {{c2::invented neural networks, again, now with backprop::what happened}}",
+                ""
+            ],
+            "guid": "yVELIvW^jL",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In {{c1::2011 to now::when}} artificial intelligence as a field {{c2::invented Deep Learning, started to rely on powerful hardware::what happened}}",
+                ""
+            ],
+            "guid": "tQVS7nJ[hK",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "This course focuses on {{c1::rational::rational/human}} behavior",
+                ""
+            ],
+            "guid": "PI;^U8^OUE",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-1-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "An agent has (3 core things): {{c1::sensors, actuators, logic}}",
+                ""
+            ],
+            "guid": "N`sFp*+I.0",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A human&nbsp;{{c1::is::is/is not}} a valid agent",
+                ""
+            ],
+            "guid": "B])2.,8_/6",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "{{c1::legs/mouth/hands....::thing}} is actuator of human agent<br>",
+                ""
+            ],
+            "guid": "pY*2/Yjpes",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "It {{c1::is not::is/is not}} possible that the same agent with the same history would act differently",
+                "Agent perceives percepts and agent's behaviour is fully determined by the complete history of everything the agent has ever perceived."
+            ],
+            "guid": "Mn@%F7i4@q",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A table (function) defining agent's action is defined as:&nbsp;{{c1::\\(V^* \\rightarrow A\\), where V is a set of percepts, A is a set of actions}}",
+                ""
+            ],
+            "guid": "mA`J3>-r-5",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a&nbsp;{{c1::fully observable::how observable}} environment agent's sensors give access {{c2::to the ocmplete state of environment}}",
+                ""
+            ],
+            "guid": "vTk^2YNJ:k",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a&nbsp;{{c1::partially observable::how observable}} environment agent's sensors give access {{c2::to a limited state of the environment}}",
+                ""
+            ],
+            "guid": "G65*<iK/[L",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a deterministic environment, the next state&nbsp;{{c1::is::is/is not}} fully defined by the previous state",
+                ""
+            ],
+            "guid": "Cf{|,[}Pin",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In a stochastic environment, the next state&nbsp;{{c1::is not::is/is not}} fully defined by the previous state",
+                ""
+            ],
+            "guid": "vx@/$D_$nw",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an episodic environment",
+                "In an episodic environment, there is a series of one-shot actions, and only the current percept is required for the action"
+            ],
+            "guid": "mV9UTb;NW?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a sequential environment",
+                "in Sequential environment, an agent requires memory of past actions to determine the next best actions"
+            ],
+            "guid": "cNX*:`6X=h",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a static environment",
+                "A static environment is not changing while the agent is thinking"
+            ],
+            "guid": "jOva=Xw$)D",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a dynamic environment",
+                "The environment is changing while the agent is thinking"
+            ],
+            "guid": "o_.BbwX0$l",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a semidynamic environment",
+                "The environment does not chang ebut the performance score does"
+            ],
+            "guid": "zg8COX$(Zw",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a discrete environment",
+                "An environment in which the number of percepts and possible actions is finite"
+            ],
+            "guid": "BZaY|wyg@j",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a continuous environment",
+                "Continuous environment is an environment where there are infinite possible actions or percepts"
+            ],
+            "guid": "oP)U!D%V~U",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a single agent environment",
+                "An environment with a single intelligent agent."
+            ],
+            "guid": "J;_i~Yq;[B",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a multi-agent environment",
+                "Multi-agent environment contains multiple entities that try to maximize performance measure.<br><div><span style=\"color: var(--text-fg);\">Environment</span>&nbsp;may be competetive or cooperative</div>"
+            ],
+            "guid": "AB)JdC07w*",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a crossword puzzle in terms of<div><br></div><div>Observability: {{c1::Fully observable}}</div><div>Determinism: {{c1::Deterministic}}</div><div>Episodicity: {{c1::Sequential}}</div><div>Staticity: {{c1::Static}}</div><div>Discrecity: {{c1::Discrete}}</div><div>Amount of agents: {{c1::Single}}</div>",
+                ""
+            ],
+            "guid": "AaoxR5YCZ)",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a \"Chess with clock\" environment in terms of<div><br></div><div>Observability: {{c1::Fully observable}}</div><div>Determinism: {{c1::Strategic}}</div><div>Episodicity: {{c1::Sequential}}</div><div>Staticity: {{c1::Semidynamic (due to the clock)}}</div><div>Discrecity: {{c1::Discrete}}</div><div>Amount of agents: {{c1::Multi}}</div>",
+                ""
+            ],
+            "guid": "z$vkuytK:i",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a \"Taxi\" environment in terms of<div><br></div><div>Observability: {{c1::Partially}}</div><div>Determinism: {{c1::Stochastic}}</div><div>Episodicity: {{c1::Sequential}}</div><div>Staticity: {{c1::Dynamic}}</div><div>Discrecity: {{c1::Continuous}}</div><div>Amount of agents: {{c1::Multi}}</div>",
+                ""
+            ],
+            "guid": "FU,uhy6yTf",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a \"Image analysis\" environment in terms of<div><br></div><div>Observability: {{c1::Fully}}</div><div>Determinism: {{c1::Deterministic}}</div><div>Episodicity: {{c1::Episodic}}</div><div>Staticity: {{c1::Semidynamic(faster = better)}}</div><div>Discrecity: {{c1::Continous}}</div><div>Amount of agents: {{c1::Single}}</div>",
+                ""
+            ],
+            "guid": "iG%.SKcn9G",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe an agent",
+                "Is something that percieves and acts in an environment"
+            ],
+            "guid": "P]]!s1X,r|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe an agent function",
+                "Specifies the action taken by the agent in response to any percept sequence"
+            ],
+            "guid": "l!=SzxQOV+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe performance measure",
+                "Evaluates the behavour of agent in an environment"
+            ],
+            "guid": "v*DOt}Mx,i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a rational agent",
+                "An agent that acts so as to maximize the expected value of the performance measure."
+            ],
+            "guid": "D#?:!Ds@ea",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define architecture of an agent",
+                "It is a computing device with physical sensors and actuators"
+            ],
+            "guid": "Lh!]lP##p?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a program of an agent",
+                "Implementation of the agent function, it is a mapping from percepts to actions"
+            ],
+            "guid": "O4PV>i<J-#",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a table-driven agent, code, problems",
+                "<div>A straightforward agent that retains the complete percept sequence in memory and uses it as an index to the table with actions.</div><div><br></div><div><img src=\"paste-76053c3d0b8c86de84dd24f2ad18cdebebf2b10a.jpg\"><br></div><div><br></div><div><div>Problems:</div>\n<div>the table is too large (even for agents working with the limited number of steps)</div>\n<div>- the designer would not have enough time to create the table</div>\n<div>- no agent could ever learn all the right table entries from experience</div>\n<div>- the designer has no guidance about how to fill in the table entries</div></div>"
+            ],
+            "guid": "sePyA5=[`~",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a simple reflex agent, code, problems",
+                "<div><div>the agent selects an action on the basis of the current percept implemented as condition-action rules (if property=dirty then suck up) significant reduction of the number of possibilities (to the number of percepts).</div></div><div><br></div><div><img src=\"paste-687b5550ec26cd9c872967b7088a678bcda34dc0.jpg\"><br></div><div><br></div><div><br></div><div>Problems:</div><div>&nbsp;- may loop indefinitely</div><div><br></div><div><img src=\"paste-cbe424f9341495810a9b8b2807e76131e03a06b2.jpg\"><br></div>"
+            ],
+            "guid": "ph}:W57r``",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a model-based reflex agent, code, problems",
+                "<div><div>A reflex based agent that works in partially observable environment. Partial observability can be handled by keeping track of the part of world the agent cannot see now. Two kind of knowledge is necessary:</div>\n<div>- how the world evolves (independently of the agent)</div>\n<div>- how the agent's own actions affect the world model of the world</div></div><div><br></div><div>Action seleciton is based not only on the state but on what the agent is trying to do =&gt; needs some sort of goal information.</div><div><br></div><div><img src=\"paste-971af4361b0331a879d4ef5086c07eb5a48f669f.jpg\"><br></div><div><br></div><div><img src=\"paste-3a42b4366a84c5f477c61bbbb0ed0ef738901222.jpg\"><br></div>"
+            ],
+            "guid": "P1ZZoB=.O^",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a utility-based agent",
+                "<div><div>Goals alone are not enough to generate high-quality behaviour in most environment.</div><div><br></div>\n<div>It is possible to <b>map states</b> (or their sequences) to utility describing the <b>performance measure</b>.</div>\n<div>- The utility function is an internalization of the performance measure (the agent chooses actions to maximize its utility which will be rational if it corresponds to the external performance measure).</div>\n<div>- The agent can perform even if there are conflicting goals or chances to achieve different goals are not equal.</div></div><div><br></div><div><img src=\"paste-34015521468bcc69e53234b256b026ff819a2b17.jpg\"><br></div>"
+            ],
+            "guid": "byxZ_.b9~$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an atomic representation of an environment",
+                "<div><div><div>- each state of the world is indivisible (blackbox)</div>\n<div>- used in search and game-playing algorithms, Markov Decision Processes</div></div></div>"
+            ],
+            "guid": "Fkm5^GF+4^",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a&nbsp;<span style=\"color: var(--text-fg);\">factored representation of an environment</span>",
+                "<div>- each state splits into a fixed set of variables (attributes), each of which can have a value</div>\n<div>- used in constraint satisfaction, propositional logic, and planning</div>"
+            ],
+            "guid": "h#vQf)ou9}",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a&nbsp;<span style=\"color: var(--text-fg);\">structured representation of an environment</span>",
+                "-&nbsp;<span style=\"color: var(--text-fg);\">each state consists of a set of objects (each may have attributes) with various and varying relationships</span><div>- used in first-order logic</div>"
+            ],
+            "guid": "w[Q^w^XqQo",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a general learning agent",
+                "We can extend any agent into a learning agent with: Performance element, learning element, critic element and a problem generator<div><br></div><div><br><div><div>Performance element:&nbsp;<span style=\"color: var(--text-fg);\">the initial agent structure responsible for action selection</span></div>\n<div>Learning element:&nbsp;<span style=\"color: var(--text-fg);\">responsible for making improvements</span></div><div><span style=\"color: var(--text-fg);\">Critic: feeedback on how the agent is doing (perceps themselves provide no indication of the agent's success)</span><br></div></div></div><div><div>Problem generator is responsible for suggesting actions that will lead to new and informative experiences (exploratory actions)</div></div>"
+            ],
+            "guid": "mynmd$n;tZ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-2-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What should a well defined problem consist of",
+                "Initial state, actions, the goal test and a path cost"
+            ],
+            "guid": "JVnijw44+s",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a solution to a problem",
+                "Solution to a problem is an action sequence that leads from the initial state to a goal state."
+            ],
+            "guid": "II:_q:$8P|",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an optimal solution",
+                "An optimal solution is a solution that has the lowest path cost among all solutions."
+            ],
+            "guid": "D{S#}F8M~D",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define abstraction",
+                "Is the process of removing detail from representation"
+            ],
+            "guid": "Qkr3qJk>#k",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Why to use abstractions",
+                "Intelligent agents would be completely swamped by the real world without using abstractions"
+            ],
+            "guid": "j7s~.+}B69",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some toy problems",
+                "The vacuum world, the 8-puzzle, the 8-queens"
+            ],
+            "guid": "eHs$3Xg=p2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some real problems",
+                "Route-finding problems, touring problems, product assembly problems"
+            ],
+            "guid": "F>5K-!?Yv.",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define state space tree search",
+                "Start in the initial node<div>Check whether the initial state is a goal state</div><div>If the state is not a goal state then expand the state</div><div>Select a next stateusing a search strategy</div><div><br></div><div><img src=\"paste-6b067bff62c2072f1797d6ca8ff26d28afaad31b.jpg\"><br></div>"
+            ],
+            "guid": "p0_.O:S]bH",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define what a node consists of in tree-search",
+                "Node consists of:<div><br></div><div>Current state, link to its parent, action leading from parent to the current state, cost of the path from root, depth</div>"
+            ],
+            "guid": "k5A-)@zJsW",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define frontier",
+                "Frontier is a set of nodes not yet expanded. Sometimes they are called leaves"
+            ],
+            "guid": "o((r8u44s}",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are algorithm's performance evaluation metods",
+                "By completness: does the algorithm guarantee to find a solution when there is one<div>By optimality: Does the algorithm find the optimal solution</div><div>By time complexity: How long does it take to find a solution</div><div>By space complexity: How much memory is needed to perform search.</div>"
+            ],
+            "guid": "LY4]3w>eb+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a branching factor",
+                "Maximum number of successors of any node"
+            ],
+            "guid": "uv)S-|-[Lz",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define uninformed ( blind ) search",
+                "No additional information abut states beyond that provided in the problem definition<div>It can only generate seccessors and distinguish a goal state from a non-goal state</div>"
+            ],
+            "guid": "hO2~W?m&Vo",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an informed ( heurestic ) search",
+                "Information to distinguish \"more promising\" non-goal states from other states<div>For example by estimating distance to some goal state</div>"
+            ],
+            "guid": "bA-9K#hX5G",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe breadth-first search",
+                "The shallowest nodes are unexpanded first<div>Achieved using a FIFO queue - First in first out</div><div>It is complete, however the shallowest node might not be the most optimal one. (BFS is opimal only if path cost is a non0decreasing function of the depth of the node)</div><div><br></div><div>Time complexity:&nbsp;</div><div><div>\\-1+b+b^{2}+b^{3}+\\ldots+b^{d}+b\\left(b^{d}-1\\right)=\\mathbf{O}\\left(\\mathbf{b}^{d+1}\\right)\\)&nbsp;</div></div><div><br></div><div>Space complexity:&nbsp;\\( O(b^{d+1}) \\)&nbsp;</div><div><br></div><div>The memory is a bigger issue that the execution time</div>"
+            ],
+            "guid": "Dcw?obDUM=",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe DFS",
+                "Always exapnd the deepest node (Achieved using LIFO)<div><br></div><div>It is not complete if the algorithm seelcts a wrong path</div><div><br></div><div>It may not find an optimum</div><div><br></div><div>Time complexity:&nbsp;\\(O(b^m)\\) where m is maximum depth</div><div>Space complexity:&nbsp;\\(O(bm)\\)</div><div>&nbsp;- Space complexity can be decreased via backtracking!</div><div>&nbsp;- Generate one successor -&gt;&nbsp;\\(O(m)\\) states</div><div>&nbsp;- Modify the current state rahther than copying it -&gt;&nbsp;\\(O(1)\\) states and&nbsp;\\(O(m)\\) actions</div><div><br></div><div>Failure of DFS in infinite state spaces can be alleviated by adding a predetermined depth limit l.</div><div><br></div><div><img src=\"paste-4ec7a78714b272bdd30da2a4dcb0e577ccbc7381.jpg\"><br></div>"
+            ],
+            "guid": "cGxQ#@5tyA",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Descire iterative deeping algorithm",
+                "Combines the benefits of BFS and DFS<div>- Is complete, is optimal, low memory onsumtion</div><div>- Time complexity&nbsp;\\(O(b^d)\\)</div><div><br></div><div>Iterative deeping is the preffered uninformed search method when the search space is large and the depth of the solution is not known.</div><div><br></div><div><img src=\"paste-fda53d637992d50a3c62afb07b741caf806a52a4.jpg\"><br></div>"
+            ],
+            "guid": "K`mmjDGP)W",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe bidirectional search",
+                "Running two simultaneous searches - one from goal state and one from the initial state.<div><br></div><div>Because&nbsp;\\(b^{d/2} + b^{d/2} &lt;&lt; b^{d}\\)</div><div><br></div><div>In combination with BFS we obtain a complete algorithm</div>"
+            ],
+            "guid": "rt?Q}tO1`&",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe backward search",
+                "Introduces multiple problems: multiple goal states, abstract description of the goal state (8-queens), definition of a predecessor state"
+            ],
+            "guid": "VH@NVeM?a",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-3-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an evalution function f(n)",
+                "A function that evaluates a quality of a node n based on the length of path to the goal"
+            ],
+            "guid": "e~#9cF%pIo",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define best-first search",
+                "The node with the smallest value of f(n) is expended in best-first search"
+            ],
+            "guid": "w{5Q3f_`ok",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a heuristic function h(n)",
+                "A heuristic function h(n) esitmates the length of the shortest ( cheapest ) path to the goal state<br><br>We will assume&nbsp;\\(h(n) ==&nbsp; 0 \\Leftrightarrow\\) n is goal"
+            ],
+            "guid": "cP#}?m}j:b",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a greedy best-first search",
+                "<div>It may not find the optimal path</div><div>It may not even find a path ( due to cycles )</div><div><br></div>Time complexity:&nbsp;\\(O(b^m)\\)<div>Memory complexity:&nbsp;\\(O(b^m)\\)</div>"
+            ],
+            "guid": "LLUs,*n0H(",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe A* algorithm",
+                "Uses \\(f(n) = g(n) + h(n)\\) as evaluation functions, where&nbsp;\\(g(n)\\) is the cost of path from root to&nbsp;\\(n\\).<div><br></div><div>Assuming the heuristic is admissable and consistent, A* is optimal in both graph search and tree search.</div><div><br></div><div>A* selects the optimal solution because of consistency of&nbsp;\\(h(n)\\)</div><div><br></div><div>A* is optimally efficient for any given consistent heuristic</div><div><br></div><div>Time complexity: A* can expand an exponential number of nodes, unless \\(|h(n)-h^*(n)| \\in O(log( h^*(n)))\\) where&nbsp;\\(h^*(n)\\) is the cost of optimal path from n to goal</div><div>Space complexity: A* keeps in memory all expanded nodes</div>"
+            ],
+            "guid": "Ji<A/-^dI>",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an admissable heuristic",
+                "Heuristic is admissable if&nbsp;\\(h(n) \\leq \\text{the cost of the cheapest path from n to goal} \\).<br>Heuristic is \"optimistic\""
+            ],
+            "guid": "wYK8WnkJ9N",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an monotonous (consistent) heuristic h(n)",
+                "<div>Let \\(\\mathbf{n}^{\\prime}\\) be a successor of \\(\\mathbf{n}\\) via action \\(\\mathbf{a}\\) and \\(\\mathbf{c}\\left(\\mathbf{n}, \\mathbf{a}, \\mathbf{n}^{\\prime}\\right)\\) be the transition cost \\(h(n) \\leq c\\left(n, a, n^{\\prime}\\right)+h\\left(n^{\\prime}\\right)\\)</div>\n<div>this is a form of triangle inequality</div>"
+            ],
+            "guid": "B3gTplrp#^",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is the relationship of admissibility and consistency",
+                "Monotonous ( consistent ) heuristic is always admissable"
+            ],
+            "guid": "CV%l)vAVt;",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe iterative deepening A*",
+                "It is used to decrease memory consumtion<div>The search limit is defined using the cost&nbsp;\\(f(n)\\)</div><div><img src=\"paste-a7925f01940684ee2b9b0f563a365d4fd4b2cd85.jpg\"><br></div>"
+            ],
+            "guid": "d$$80IYf.I",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Recursive best-first search",
+                "If h(n) is an admissable heuristic then the algorithm is optimal<div>Space complexity:&nbsp;\\(O(bd)\\)</div><div>Time complexity: Exponential (suffers from exessive node regenration)</div><div><br></div><div><img src=\"paste-0101d4e44fd7a9ea9d6cb818f94ccb6ad0e4c7e1.jpg\"><br></div>"
+            ],
+            "guid": "PTp%*4w;)2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Simplifed memory-bounded A*",
+                "IDA* and RBFS do not exploit available memory. Modify A* so when the memory is full, we drop the worst leaf.&nbsp;"
+            ],
+            "guid": "w)7<S~79l5",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weighted A*",
+                "Let \\(f(n) = g(n) + W h(n) \\) for some&nbsp;\\(W &gt; 1\\), then<br><div>we might find suboptimal solutions but explore fewer nodes.</div>"
+            ],
+            "guid": "KPOVr6Z4/>",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weighted *A with W = 1 is equivalent to",
+                "A* search"
+            ],
+            "guid": "qF^IEx>4~Q",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weighted *A with W = 0 is equivalent to",
+                "Uniform cost search"
+            ],
+            "guid": "N:+s%T!hyy",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Weighted *A with W = \\(\\infty\\) is equivalent to",
+                "Greedy best-first search"
+            ],
+            "guid": "AHI7;@+>O+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is an effective branching factor&nbsp;\\(b^*\\)",
+                "<div>Let an algorithm need \\(N\\) nodes to find a solution in depth \\(d\\)</div><div><br></div>\\(b^*\\) is a branching factor of a uniform tree of depth \\(d\\) containg \\(N+1\\) nodes&nbsp;<span style=\"color: var(--text-fg);\">\\(\\mathbf{N}+\\mathbf{1}\\) nodes \\(N+1=1+b^{*}+\\left(b^{*}\\right)^{2}+\\ldots+\\left(b^{*}\\right)^{d}\\)&nbsp;</span><div><span style=\"color: var(--text-fg);\"><br></span></div><div><img src=\"paste-f115cb7754431f50103316674cbcf6021ad435a4.jpg\"><span style=\"color: var(--text-fg);\"><br></span></div>"
+            ],
+            "guid": "w+Hy{5daA*",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define heuristic domination",
+                "We say&nbsp;\\(h_2\\) dominates&nbsp;\\(h_1\\) when&nbsp;<span style=\"color: var(--text-fg);\">(\\forall n \\mathrm{~h}_{2}(\\mathrm{n}) \\geq \\mathrm{h}_{1}(\\mathrm{n})\\)</span>"
+            ],
+            "guid": "Jfpc5q,LCp",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe problem relaxation",
+                "<img src=\"paste-03e0ff3fdafc37a1d4783c6d46982dbcdec2c911.jpg\">"
+            ],
+            "guid": "J$ONO2W/?G",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a pattern database",
+                "Based on a solution of specifi sub-problems (patterns)<div>Heuristic is defined by taking the worst cost of a pattern that matches the current state</div><div><br></div><div>! Beware! The sum of costs of matching patterns does not need to be admissable</div>"
+            ],
+            "guid": "fMO)F36<w-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-4-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe local search",
+                "We keep a single state only, modified in each iteration<div>Path is not stored</div><div>We are looking for an optimal state</div>"
+            ],
+            "guid": "de/F[8(fxa",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe parts of landscape - global maximum, local maximum, flat maximum, shoulder",
+                "Global maximum - a point where the objective function is at its highest<div>Local maximum - a point where on both sides the objective function decreases in value</div><div>Flat maximum - an interval for which the objective function holds the same value and all of which are local maxima</div><div>Shoulder - an interval for which the objective function holds the same value, but is not a flat maximum</div>"
+            ],
+            "guid": "K-n%,DrnyL",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe hill climbing",
+                "<div>It is a greedy algorithm<br></div>For current state, pick the best state around and use it<div>Gets stuck in local optimum</div><div>May get stuck in a plateaux (e.g. shoulder)<br><div><br></div><div><img src=\"paste-3f93921bd6e083056e386892a9bcf8961f861033.jpg\"><br></div><div><br></div><div><br></div></div>"
+            ],
+            "guid": "D6BRbfHyKX",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe stochastic hill climbing",
+                "Chooses at random from among the uphill moves the probability of selection can vary with the steepnes of the uphill move<div>May find better solution, but is slower</div>"
+            ],
+            "guid": "eQ#Y85/Fo.",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe first choice hill climbing",
+                "Implements stochastic hill climbing until a successor better than the current state is generated.<div>A good strategy when a state has many (thousands) of successors</div>"
+            ],
+            "guid": "C}QRhmZ-GJ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Random restart hill climbing",
+                "Conducts a series of hill climbing searches from randomly generated initial states<div>Can escape from local optimum</div><div>Very efficient method for the N-queens problem</div>"
+            ],
+            "guid": "n[*A55,b$a",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe simulated annealing algorithm",
+                "Combines random walk and hill climbing<div><br></div><div>With time it reduces the influence of random walk</div><div><br></div><div><img src=\"paste-01048a8e6e973e78746c4b4c297a8625b21593dc.jpg\"><br></div>"
+            ],
+            "guid": "fLD=6oA)jd",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe local beam search algorithm",
+                "Keeps track of k states rather than just one<div>All successors of k are generated</div><div>If a goal is reached, halt</div><div>Otherwise select k best successors and repeat<br><br>It is **not** like running k restarts of HC in parallel</div>"
+            ],
+            "guid": "I0z!M={lsV",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe genetic algorithms",
+                "A variant of stochastic beam search in which successors are generated by combining two parent states<div><img src=\"paste-200c25a06cec8d5712c5cf0d011cab6e4b2579cb.jpg\"><br></div><div>- Begins with set of k randomly generated states</div><div>- for each pair choose a crossover</div><div>- combine offsprings</div><div>- each offspring is subject to a mutation</div>"
+            ],
+            "guid": "JNCWgZ$.Vc",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe an AND/OR tree",
+                "As opposed to a classical search tree (with only OR nodes) AND/OR tree also contains AND nodes, describing non-deterministic autocomes of actions<div><br></div><div>A solution to And-OR search problem is a subtree of that complete search tree that</div><div>&nbsp;- has a goal node at every leaf</div><div>- specifies one action at each of its OR nodes</div><div>- includes every outcome of its AND nodes</div><div><br></div><div><img src=\"paste-31b1fef56f3087edd72453a59a704e336c0afe1c.jpg\"><br></div>"
+            ],
+            "guid": "nZ@}q_`_MP",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe an offline search",
+                "Used when computing a complete solution before execution the solution without assuming percepts"
+            ],
+            "guid": "J^-/juhwU8",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Descibre online search",
+                "<img src=\"paste-8c567b7a29e8a55ab6714562775e7307f293019b.jpg\">"
+            ],
+            "guid": "hOJCvLl5Nh",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to evaluate online algorithsm",
+                "With comparison against the offline solution"
+            ],
+            "guid": "q%<DO3K[F$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a competetive ratio of an online algorithm",
+                "=quality of the online solution / quality of the best solution<div>can be +infty for a dead-end state</div>"
+            ],
+            "guid": "mL:tE!V%`=",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can an algorithm avoid dead ends in all state spaces",
+                "No, proof using an adversary argument"
+            ],
+            "guid": "dpnqfQc@>z",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe online DFS",
+                "<div>It the worst case, every link is traversed exactly twice</div><div>Online works in state spaces where actions are reversible</div><div><br></div><img src=\"paste-65b003755014aad85608c6373973ac0026d31699.jpg\">"
+            ],
+            "guid": "O++z;P^AmH",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is hill climbing an online algorithm",
+                "Yes, it is an online algorithm<div>- keeps a single state</div><div>- does local steps</div><div><br></div><div>but gets stuck at minima,&nbsp;<span style=\"color: var(--text-fg);\">however we cannot restart, that's not the online way, but we can still use random walk</span></div>"
+            ],
+            "guid": "pPQs1eD4r;",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe learning real-time A*",
+                "<img src=\"paste-b77c3fbc80eb2e6da10e1c3eedc8f13289411113.jpg\">"
+            ],
+            "guid": "w6kT7vQJ5R",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-5-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a constraint satisfaction problem",
+                "A triple of variables, domains and constraints<br>"
+            ],
+            "guid": "e4#d4Y5RKn",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe variables in CSP",
+                "Describe some features of the wrold state that we are looking for"
+            ],
+            "guid": "mqD=&+XMW[",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe domains in CSP",
+                "\"options\" available, for example the rows for queens"
+            ],
+            "guid": "lRoQOs@(:e",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define constraints in CSP",
+                "A constraint is a relation over a subeset of variables, for example rowA != rowB"
+            ],
+            "guid": "PiH<WTX1AC",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe color map constraint model",
+                "Variables: WA, NT, Q, NSW, V, SA, T (places)<div>Superdomain: {r, g, b}</div><div>Constaints: WA != NT, WA != SA, ....</div><div><br></div><div>Problem solution:</div><div>WA = r</div><div>NT = g</div><div>Q = r</div><div>NSW = g</div>"
+            ],
+            "guid": "BZ%3>ih|.]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define state in terms of CSP",
+                "State is a partial assignment of values to variables"
+            ],
+            "guid": "J9(`n]BX7v",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a consistent state in terms of CSP",
+                "A consistent state is an assignment that does not violate any constraint"
+            ],
+            "guid": "k=}-yH$2qR",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a complete state in therms of CSP",
+                "A complete state is a state where each variable is assigned to some value"
+            ],
+            "guid": "tld}`Pm)0J",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define the goal in a CSP",
+                "The goal is a complete consistent state"
+            ],
+            "guid": "KS`xLB86rC",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define objective function in terms of CSP",
+                "It is defined over the variables that evaluates the goal states by assigning them real numbers, then we are looking for an optimal goal state"
+            ],
+            "guid": "Bo_59g$Mx{",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe CSP backtracking",
+                "<img src=\"paste-74d99e3e9cd0a59dcce07e1e602dfa400d3e0d27.jpg\">"
+            ],
+            "guid": "N^{.zxo%D/",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to improve CSP backtracking",
+                "Choose starting variables<div>Assigning the \"right\" values</div><div>Early detection of wrong branches - via constraint propagation</div>"
+            ],
+            "guid": "u&TrYqQ%HD",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some examples of variable ordering in CSP",
+                "- The most restricted variable fist - i.e. variable with the smallest domain - dom heuristic<div><br></div><div>- The most constrained variable first - deg heuristic</div><div><br></div><div>Both examples of fail-first principle - asiign first a varialbe whose assignment will probably lead to a failure</div>"
+            ],
+            "guid": "O9ntCd`}3]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Name some value ordering strategies in CSP",
+                "We want to prefer values belonging to a solution with a high chance - a succeed first principle<div>Pick:</div><div>- value that restricts least the other variables&nbsp;</div><div>- value that is a solution of a relaxed problem</div><div><br></div><div>finding the best value is expensive, problem depended heuristics are usually preffered</div>"
+            ],
+            "guid": "eN`aN-Sy<y",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe forward chaning in CSP",
+                "After assigning a value to the variable we can check future constaints - constraints between the current variable and not-yet instantiated variables"
+            ],
+            "guid": "y_`,,wv6@r",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe constraint propagation",
+                "Checking the constaints between the future varibles<div>Also described as look ahead</div><div>Implemented via maintaining consistency of constraints</div>"
+            ],
+            "guid": "j6zf?|JcJY",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the AC-3 algorithm",
+                "<img src=\"paste-12c5bc8ff836a5d03df16b113700db559320ad46.jpg\">"
+            ],
+            "guid": "b90;a%mP>:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is k-consisntency",
+                "<div>- We can generally define k-consistency, as the consistency check where for a consistent assignment of (k-1) variables we require a consistent value in one more given variable.</div>\n<div>\\(-\\operatorname{arc}\\) consistency \\((A C)=2\\) -consistency</div>\n<div>- path consistency \\((\\mathrm{PC})=3\\) -consistency</div>\n<div>If the problem is i-consistent \\(\\forall i=1, . ., n\\) ( \\(n\\) is the number of variables), then we can solve it in a backtrack-free way.</div>\n<div>- DFS can always find a value consistent with the assignment of previous variables Unfortunately, the time complexity of k-consistency is exponential in k.</div>"
+            ],
+            "guid": "nYFA>g;w,i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe global constraints",
+                "Instead of stronger conssitency techniques (expensive) usualyl global constraints are used - a global constraint encapsulates a sub-problem with a specific structure that can be exploited in the ad-hoc domain filtering procedure.<div><img src=\"paste-de033874f213efba7920fdf416d4e2e0e4c14627.jpg\"><br></div>"
+            ],
+            "guid": "I;Jer(}YhX",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "CSP is a&nbsp;{{c1::declarative::declarative/dynamic}} approach to problem solving",
+                ""
+            ],
+            "guid": "sT4i^UCd-Y",
+            "note_model_uuid": "520cd16e-67e9-11eb-a855-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Possible extensions of CSP",
+                "Optimisation problems<div>Soft constraints</div>"
+            ],
+            "guid": "rb!*2<_*8B",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-6-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define adversarial search",
+                "Searching a competetive game tree"
+            ],
+            "guid": "nN~$!8X2+4",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define minimax value",
+                "The optimal strategy can be determined from the minimax value of each node computed as follows:<br>MINIMAX-VALUE \\((n)=\\) UTILITY(n) if \\(n\\) is a terminal state<br>\\(\\max _{s \\in \\text { successors }(n)}\\) MINIMAX-VALUE(s) if MAX plays in \\(n\\)&nbsp;<div>\\(\\min _{s \\in \\text { successors }(n)}\\) MINIMAX-VALUE(s) if MIN plays in \\(n\\)</div>"
+            ],
+            "guid": "jM9uQqi_fV",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the minimax algorithm",
+                "<div>Always finds an optimal strategy</div><div>Can be sped up using alpha-beta pruning</div><div><br></div><img src=\"paste-867dfbaac7dfc967e5f21568dcd767ae11d3148a.jpg\">"
+            ],
+            "guid": "nKx=h:LC~x",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the code of alpha-beta algorithm",
+                "<div><img src=\"paste-48de7bca81c994d2b2831abbbd8a91605ab799fb.jpg\" style=\"color: var(--text-fg);\"><br></div>"
+            ],
+            "guid": "Pj/N=+C.S-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe cut off search",
+                "<div>Cut off minmax (or alphabeta) before terminal states and use heuristic function as a guide instead</div>Does not guarntee optimal solution<div><br></div><div>Implementation</div><div>&nbsp;- terminal test -&gt; cutoff test</div><div>- utlity function -&gt; euresitic evaluation function EVAL</div>"
+            ],
+            "guid": "sdEfL%(M^O",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe an evaluation function in minmax",
+                "Returns an estimate of the expected utility of the game from a given position<div><br></div><div>Properties:</div><div>- termnal states must be ordered in the same way as if order by the true utility function</div><div>- fast</div><div>- for non-terminal states the evaluation fucntion should be strongly correlated with the actual chances of winning</div><div><br></div><div>Examples:</div><div>&nbsp;- Expected value - based on selected deatures of states, by various categories (3 pawns in a row)</div><div>&nbsp;- Material value - estimate the numerical contribution of each feature (e.g. pawn = 1, kind = 3 ...)</div>"
+            ],
+            "guid": "NS.z[fFc28",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Problems with minmax cutoff",
+                "Situation may change dramatically just after cutoff - remedy is quoscent search: if the estimate is not stable then it is better to explore a few more moves<div><br></div><div>Unavoidable bad situation may not be recognized as unavoidable due to cutoff - remedy is singular extension: explore the sequence of moves that are clearly better than all other moves</div>"
+            ],
+            "guid": "O+z.U]CI|h",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe pure monte carlo search",
+                "do N simulations from the current state and select the move with the highest win percentage"
+            ],
+            "guid": "fv70q9;0??",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe monte carlo tree search",
+                "builds a game tree, using the selection policy find a node for expansion, evaluates new node using simulation<div><br></div><div><img src=\"paste-7bfd073b2c78b1a70cdf54efd361e9f75ec551d2.jpg\"><br></div>"
+            ],
+            "guid": "v`Y8<RO_A2",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the UCT of MCTS",
+                "<img src=\"paste-da426e1596c5489aa81e3bf11146003f49c0c41e.jpg\">"
+            ],
+            "guid": "he(n2Y]iK1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to adapt minmax to stochastic games",
+                "Game tree is extended with chance nodes<div>Time complexity changes to&nbsp;\\(O(b^mn^m)\\) where n is the number of random moves.</div><div><div><br><div><img src=\"paste-9dd4f3d742b7b21763e1fedabe93f60270778eac.jpg\"><br></div></div><div><img src=\"paste-7b48865ce55cbb392b8f0722bc8ab2fd6a4b9f11.jpg\"><br></div></div><div><img src=\"paste-a0cba1090fba04e4d27f7c370344ffb91bd88645.jpg\"><br></div>"
+            ],
+            "guid": "hIO07?aO5]",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-7-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a knowledge base",
+                "A set of sentences expressed in a given language - that can be updated by the operation TELL and can be queried about what is known using ASK"
+            ],
+            "guid": "ga>?.#n_9q",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe a code of KB-AGENT",
+                "<img src=\"paste-bd85d620c1710a9a5186301b92bf6a80f74b6e66.jpg\">"
+            ],
+            "guid": "uy&mRVf&O:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to implement inference in general?",
+                "Using propositional logic. Sentences are propositional expressions and a knowledge base is a conjuction of these expressions."
+            ],
+            "guid": "Kvzk$e1PHp",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propositional variables example",
+                "-&nbsp;\\(P_{i,j} = true\\) if there is a pit at [i,j]"
+            ],
+            "guid": "udRyLjMUrJ",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Propositional formule example",
+                "<div>\\(\\mathrm{B}_{1,1} \\Leftrightarrow\\left(\\mathrm{P}_{1,2} \\vee \\mathrm{P}_{2,1}\\)</div>"
+            ],
+            "guid": "rx?7O.;;8u",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What does syntax define",
+                "the allowable sentences, propositional variables, logical connectives&nbsp;<span style=\"color: var(--text-fg);\">\\(\\neg, \\wedge\\) \\(\\vee, \\Rightarrow, \\Leftrightarrow\\)&nbsp;</span>"
+            ],
+            "guid": "kP;WOuI;cf",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a model of a sentence&nbsp;\\(\\alpha\\)",
+                "\\(M\\) is a model fo sentence&nbsp;\\(\\alpha\\) if&nbsp;\\(\\alpha\\) is true in M<br>"
+            ],
+            "guid": "qrGG|1H3}",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define entailment: \\(KB \\models \\alpha\\)",
+                "Entailment: \\(KB \\models \\alpha\\) means that&nbsp;\\(\\alpha\\) is a logical consequence of&nbsp;\\(KB\\).&nbsp;<div>\\(KB \\models \\alpha \\Leftrightarrow M(KB) \\subseteq M(\\alpha) \\)</div>"
+            ],
+            "guid": "jI3`dUE{hP",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a sound inference method",
+                "Algorithm of inference is sound if&nbsp;\\(KB \\models_i \\alpha<span style=\"color: var(--text-fg);\">\\) implies&nbsp;</span>\\(KB \\models \\alpha<span style=\"color: var(--text-fg);\">\\)</span>"
+            ],
+            "guid": "kqB5E1NU]K",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a complete inference method",
+                "Inference algorithm is complete if&nbsp;\\(KB \\models \\alpha \\) implies&nbsp;\\(KB \\models_i \\alpha\\)"
+            ],
+            "guid": "CfWpu)q#yB",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe two classes of inference algorithms",
+                "Model checking - based on enumeration of a truth table (e.g. DPLL), local search<div><br></div><div>Inference rules: theorem proving by applying inference rules, it is a resolution algorithm</div>"
+            ],
+            "guid": "jN-=>agdFN",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe code of TT-ENTAILS",
+                "<img src=\"paste-03c1eef97c779689571e9ac668cb38d779a2a329.jpg\">"
+            ],
+            "guid": "ff$a)5`g$k",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a satisfiable formule",
+                "Sentance (formule) is satisfiable if it is rue in or stasified by some model"
+            ],
+            "guid": "Bu/Zk]Es)3",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define an unsatisfiable formula (sentence)",
+                "Formule that is not true in any model"
+            ],
+            "guid": "FJai#..t5a",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to implement entailment using satisfiability",
+                "<div>Entailment can then be implemented as checking satisfiability as follows:</div>\n<div>\\(\\mathrm{KB}=\\alpha\\) if and only if \\((\\mathrm{KB} \\wedge \\neg \\alpha)\\) is unsatisfiable.</div>\n<div>- proof by refutation</div>\n<div>- proof by contradiction</div>"
+            ],
+            "guid": "A=uMgq2y#[",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a literal",
+                "Literal is an atomic variable or its negation"
+            ],
+            "guid": "mwxo^M~!e+",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a clause",
+                "Clause is a disjunction of literals"
+            ],
+            "guid": "QU--swW<Zg",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a formula",
+                "Formula in CNF (conjunctive normal form) is a conjunction of clauses"
+            ],
+            "guid": "A<R+7]*4g-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe code of DPLL",
+                "<img src=\"paste-e7106ab9aab52a686c0160017d3c2d782e7ed794.jpg\">"
+            ],
+            "guid": "NEui8XvZ4V",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe code of WalkSAT",
+                "<img src=\"paste-19fce6c821fe542f13cc9c0cd8a92506f1867a4e.jpg\">"
+            ],
+            "guid": "fdJ2R2#+aq",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "WalkSAT vs DPLL in terms of speed",
+                "<img src=\"paste-dd3794dcf97306040538858cc06a3d8719a1559a.jpg\">"
+            ],
+            "guid": "g|(Jeh8kfv",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the resolution algorithm",
+                "<img src=\"paste-fea22c574e6a625f2bfd731a2c63cbc2bdbbee0f.jpg\"><div><img src=\"paste-0715109102a9d93b3b0d4cbefab6e132a122e1d1.jpg\"><br></div>"
+            ],
+            "guid": "FGx#*mXQdc",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define a horn clause",
+                "Horn clause is a disjunction of literals of which at most one is positive<div><br><div><div>Example: \\(C \\wedge(\\neg B \\vee A) \\wedge(\\neg C \\vee \\neg D \\vee B)\\)</div></div></div>"
+            ],
+            "guid": "Fq{FQbf@wW",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe forward chaining",
+                "Runs from facts to all possible conclusions.<div>It is data-drive method</div><div><img src=\"paste-c2240e48cf1fa308ae8407aff8cef781314e7555.jpg\"><br></div>"
+            ],
+            "guid": "rsOp#/ZvB:",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe backward chaining",
+                "The query is decomposed to sub queries until the facts from KB are obtained.<div>Goal-drive reasoning</div>"
+            ],
+            "guid": "Ls7<2n/X=q",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-8-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Define propositional logic",
+                "Propositional logic is declarative with composuinal semantic that is contex-independent and unambiguous"
+            ],
+            "guid": "bALAFSK%pg",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe first order predicate logice",
+                "It describes objects, relations and functions. It can also epxress facts about some or all objects"
+            ],
+            "guid": "uOvb6.~5g6",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "First order logic examples",
+                "Constants (Richard)<div>Function symbols (LeftLeg)</div><div>Terms (LeftLeg(John))</div><div>Predicate Symbols (Brother, King, Crown)</div><div>Atomic Sentances (Brother(Richard, Jogn))</div><div>Complex Sentences</div><div>Quantifiers&nbsp;\\(\\forall King(x) \\rightarrow Person(x)\\)</div>"
+            ],
+            "guid": "Q]00Au,%]e",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe TELL operation in FOL",
+                "<img src=\"paste-f096b3e49ac4ef98a177368b7eccf19fb3cf8ec3.jpg\">"
+            ],
+            "guid": "H;3n{ZEcCn",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe domain of family relationships in FOL<div><br></div><div>Objects =&nbsp;{{c1::people}}</div><div>Unary predicates =&nbsp;{{c1::Male, Female}}</div><div>Binary predicates =&nbsp;{{c1::Parent, Sibling, Child, Grandparent, ...}}</div><div>Functions =&nbsp;{{c1::Mother, Fater}}</div><div><br></div><div>Axions =&nbsp;<br>Plain facts:&nbsp;{{c1::Male(Jim)}}</div><div>Definitions =&nbsp;</div><div>{{c1::<div>\\(</div>\n<div>\\forall m, c \\text { Mother }(c)=m \\Leftrightarrow \\text { Female }(m) \\wedge \\text { Parent }(m, c)</div>\n<div>\\)</div>\n<div>\\(</div>\n<div>\\forall p, c \\text { Parent }(p, c) \\Leftrightarrow \\text { Child }(c, p) \\\\</div>\n<div>\\)</div>\n<div>\\(</div>\n<div>\\forall x, y \\text {Sibling} (x, y) \\Leftrightarrow x \\neq y \\wedge \\exists p \\text{ Parent}  (p, x) \\wedge \\text{ Parent}  (p, y) \\\\</div>\n<div>\\)</div>}}<br></div><div>Theorems =&nbsp;{{c1::<span style=\"color: var(--text-fg);\">\\[</span></div>\n<div>\\forall x, y \\text { Sibling }(x, y) \\Leftrightarrow \\text { Sibling }(y, x)</div>\n<div><span style=\"color: var(--text-fg);\">\\]</span>}}</div><div><br></div>",
+                ""
+            ],
+            "guid": "Ou:GTA2.N5",
+            "note_model_uuid": "15a9fad0-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Knowledge engineer is someone who&nbsp;",
+                "<div>Knowledge engineering deals with the process of knowledge-base construction.</div>\n<div>A knowledge engineer is someone who:</div>\n<div>- <b>investigates</b> a particular domain How do the things work?</div>\n<div>- <b>learns</b> what concepts are important in that domain</div><div>- <b>c</b><span style=\"color: var(--text-fg);\"><b>reates</b> a formal representation of the objects and relations in the domain</span></div>"
+            ],
+            "guid": "q?#NRz6!ay",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe steps in the knowledge engineering process",
+                "<div><b>1. identify the task</b></div>\n<div>- What is the range of questions?</div>\n<div>- Wumpus: action selection or asking about the contents of the environment?</div>\n<div><b>2. assemble the relevant knowledge (knowledge acquisition)</b></div>\n<div>- How does the domain actually work?</div>\n<div>- Wumpus: what does it mean to feel stench and breeze?</div>\n<div><b>3. decide on a vocabulary of predicates, functions, and constants</b></div>\n<div>- How to translate domain-level concepts to logic-level names? Wumpus: is a pit an object or a function of the square?</div>\n<div>- The result is an ontology of the domain (vocabulary of notions).</div>\n<div><b>4. encode general knowledge about the domain</b></div>\n<div>- Which axioms hold in the domain?</div>\n<div>- Wumpus: breeze means a pit in the neighbourhood square</div>\n<div><b>5. encode a description of the specific problem instance</b></div>\n<div>\\(-\\) What is the current state of the world? Wumpus: the agent is at square (1,1) looking to the right</div>\n<div><b>6. pose queries to the inference procedure and get answers</b></div>\n<div>- How does the inference procedure operate on our KB? Wumpus: is cell (2,2) really safe?</div>\n<div><b>7. debug the knowledge base</b></div>\n<div>- What is missing in the knowledge base? Wumpus: there is a single wumpus in the cave</div>"
+            ],
+            "guid": "c.)6]I<,$X",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-9-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the main differences between inference in propositional logic and first order logic",
+                "<div>The main differences:</div>\n<div>- quantifiers \\(\\rightarrow\\) skolemization</div>\n<div>- functions and variables \\(\\rightarrow\\) unification</div>"
+            ],
+            "guid": "m*QJ/]P5+9",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Can you reduce first order logic into a propositional logic",
+                "Yes, using grounding - initiate variables by all possible terms.<div><br></div><div><div>- And what about quantifiers?&nbsp;</div><div>universal quantifiers: each variable is substituted by a term&nbsp;</div><div>existential quantifier: skolemization (variable is substituted by a new constant)</div></div>"
+            ],
+            "guid": "jGNhFYV0Gg",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Redocuing FOL to PL: quantifiers",
+                "<img src=\"paste-19788a3edab28e7bc070093f2581cea20d003578.jpg\">"
+            ],
+            "guid": "u/Nuh=Tgk1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to reduce this FOL to PL:<div><img src=\"paste-a20007e3678d0d91c4192555abe23a543c02696a.jpg\"><br></div>",
+                "<img src=\"paste-67ed6e77a6b377e62d9413fc483eed81dda26b8b.jpg\"><div><br></div><div>Problem: function symbols can create recursion and infinite loopty loop</div>"
+            ],
+            "guid": "Oxogx]/`l6",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to modify inference rules to work with FOL",
+                "<div><img src=\"paste-7079e0cdd11077bd724cede3b6543a399d653a8d.jpg\"><br></div>"
+            ],
+            "guid": "q2au|Bd%)1",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe unification",
+                "<div><img src=\"paste-7513d2093889678fa75be2cbb8830f03943034cd.jpg\"><br></div><img src=\"paste-f676575df5f809ac022879fc5615aa3915d80aec.jpg\">"
+            ],
+            "guid": "oB.tTjJpU",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe inference techniques in FOL without function symbols",
+                "<img src=\"paste-dcfc171a4f722c77b9d768391cb71ed21f63166d.jpg\"><div><img src=\"paste-1fb386e073f73bf637dd976a10f5eeb2523f55a2.jpg\"><br></div><div><img src=\"paste-574b999190534c92826bb49dd13a71ef7b601b5f.jpg\"><br></div><div><img src=\"paste-5f03f85378d67c2babe6bed983e07201bb9bd72b.jpg\"><br></div><div><img src=\"paste-d1cf49a30ec95c2dafc1b24c5e234985506fa406.jpg\"><br></div><div><img src=\"paste-5521cd75b4e5113fcb4877f53822acec695d7441.jpg\"><br></div>"
+            ],
+            "guid": "owDfD~:11t",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is a magic set",
+                "<img src=\"paste-c0d20fdbd796a8b585641fd04681ece5512191bd.jpg\">"
+            ],
+            "guid": "vk[Km.1,s?",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe backward chaining in FOL",
+                "<img src=\"paste-db94bcad6180a0a1b3fd9851a3a045e647fe1087.jpg\">"
+            ],
+            "guid": "iX@JncAru8",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How do you backward chain this<div><img src=\"paste-75dd71a4232e2504d0d3fb81acc7e4d04aa51452.jpg\"><br></div>",
+                "<img src=\"paste-ba635aa04fe166e9923d17b148367eeb61b50da0.jpg\">"
+            ],
+            "guid": "vx[R%E9E%5",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Properties of logic programing",
+                "Fixed Computation mechanism<div>Returns a single solution</div><div>Built in arithmetic</div><div>Equality gives explicit access to unification</div><div>Negation as failure</div>"
+            ],
+            "guid": "rE%F(#Vg28",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe how to achieve conjunctive normal form",
+                "Remove implications<div>Put negation inside</div><div>Standardize variables</div><div>Skolemize</div><div>Remove universal quantifiers</div><div>Distribute AND and OR</div><div><br></div><div><img src=\"paste-d74dd138303c9787fec6a70c68c6cf100c6da605.jpg\"><br></div>"
+            ],
+            "guid": "k{?Yh5nozf",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to effecitively find proofs by resolution?",
+                "Unit resolution<div>A set of support</div><div>Input resolution</div><div>Subsumption</div><div><br></div><div><img src=\"paste-3433446c5343e7a24f80f0900d514c410acc1f69.jpg\"><br></div><div><br></div>"
+            ],
+            "guid": "vwZ1rVp+Gg",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to handle equality in FOL?",
+                "<img src=\"paste-8e127e0a0f39b214a41a8d1005faf06baff820a8.jpg\">"
+            ],
+            "guid": "myM6qA/Uc-",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-10-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to represent a category in FOL?",
+                "<img src=\"paste-bbd6b67d2770fa42e3ef10831871349c26f28fc0.jpg\">"
+            ],
+            "guid": "LIO(us14.%",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-11-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "How to implement actions in situation calculus",
+                "<img src=\"paste-161b177b9db727fac064014f2891881044e451e6.jpg\">"
+            ],
+            "guid": "PzuA@:O}4b",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-11-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are the two ways actions can be described using axioms",
+                "<img src=\"paste-61cf5313a322559f592280ec43566b87d07d1e9f.jpg\">"
+            ],
+            "guid": "G7%@kPah*i",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-11-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the frame problem",
+                "<img src=\"paste-38d5e254b1076fb1217922d272103205d57c2219.jpg\">"
+            ],
+            "guid": "l,:fBa]_+z",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-11-week"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Describe the solution to a frame problem",
+                "<img src=\"paste-c9031128a5f3ef37c6ca7efd3e9fa7d23ddaa1ae.jpg\"><div><img src=\"paste-ae3b3f30798458ef125e5d4bc3041405ac711d3e.jpg\"><br></div><div><img src=\"paste-e82ac313bd6295c64c6102fafe48abd5d6fb76f2.jpg\"><br></div>"
+            ],
+            "guid": "wX>0gg`dH$",
+            "note_model_uuid": "15a831d2-5529-11eb-bb95-38d5479d0148",
+            "tags": [
+                "ai1-11-week"
+            ]
+        }
+    ]
+}
